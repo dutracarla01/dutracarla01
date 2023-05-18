@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, pequeno gafanhoto! Seja bem-vindo! 👋
 
 <!--
 **dutracarla01/dutracarla01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
